@@ -24,5 +24,5 @@ class School
     end
     sorted_hash
   end
-  binding.pry
+  
 end
